@@ -1,8 +1,10 @@
 # MPSM_WebUI
 Updated wifi user interface for MP Select Mini 3D printers
 
-Slightly revised wifi/web UI from the default MP Slect Mini UI. The original UI can be found at: https://www.mpselectmini.com/sample_webui 
+## Description
+Slightly revised wifi/web UI from the default MP Slect Mini UI (**screenshots below**). The original UI can be found at: https://www.mpselectmini.com/sample_webui 
 
+## Additions
 This UI adds several useful features, including:
   - Total time elapsed during current print
     - If you are were accessing the web UI at the beginning of the print (or send the print command from the UI) the time elapsed will be 
@@ -20,4 +22,10 @@ This UI adds several useful features, including:
   - Added icons of movement directions (e.g. forward, backward, left, right, etc.) for clarity
   - Added target temperature range markers to temperature graphs (extruder and bed)
   
-Most of the revisions are cosmetic and do not alter any settings on your printer (other than file upload speed). This has been tested on a MP Select Mini V2 with firmware V40.
+Most of the revisions are cosmetic and do not alter any settings on your printer (other than file upload speed). This has been tested on a MP Select Mini V2. 
+
+**Note: Requires UI Controller firmware version 42 or greater to enable a custom Web UI.**
+
+## Preview
+![webui_top](https://user-images.githubusercontent.com/38746964/39291075-657c5850-48f7-11e8-9b73-845e2bd68429.jpg)
+
