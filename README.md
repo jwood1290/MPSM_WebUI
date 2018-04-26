@@ -27,5 +27,5 @@ Most of the revisions are cosmetic and do not alter any settings on your printer
 **Note: Requires UI Controller firmware version 42 or greater to enable a custom Web UI.**
 
 ## Preview
-![webui_top](https://user-images.githubusercontent.com/38746964/39291075-657c5850-48f7-11e8-9b73-845e2bd68429.jpg)
-
+![webui_top](https://user-images.githubusercontent.com/38746964/39291075-657c5850-48f7-11e8-9b73-845e2bd68429.jpg) 
+![webui_bottom](https://user-images.githubusercontent.com/38746964/39291441-9cfc3b8c-48f8-11e8-8168-15e690784c4f.jpg)
